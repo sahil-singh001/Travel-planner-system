@@ -1,0 +1,11 @@
+1|2026-05-01|Flight|Delhi|Mumbai|5200.00
+2|2026-05-01|Taxi|Mumbai|Taj Hotel|850.00
+3|2026-05-02|Visit|Taj Hotel|Gateway of India|300.00
+4|2026-05-03|Train|Taj Hotel|Goa Station|2400.00
+5|2026-05-03|Cab|Goa Station|Beach Resort Goa|650.00
+6|2026-05-04|Visit|Beach Resort Goa|Baga Beach|200.00
+7|2026-05-04|Scooter|Baga Beach|Anjuna Beach|450.00
+8|2026-05-05|Visit|Anjuna Beach|Fort Aguada|250.00
+9|2026-05-06|Flight|Goa|Bengaluru Airport|4800.00
+10|2026-05-06|Taxi|Bengaluru Airport|MG Road Hotel|700.00
+11|2026-05-07|home|nagpur|patna|1200.00

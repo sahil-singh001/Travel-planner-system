@@ -1,0 +1,37 @@
+1|1|Leave Home Delhi|2.00
+1|2|Reach Metro Station|1.00
+1|3|Arrive IGI Airport Terminal 3|18.00
+1|4|Security Check and Boarding Gate|0.30
+1|5|Land at Mumbai Airport|0.00
+2|1|Exit Arrival Gate|0.20
+2|2|Take Airport Taxi Lane|0.50
+2|3|Drive via Marine Route|24.00
+2|4|Reach Taj Hotel Entrance|0.10
+3|1|Walk Out of Hotel|0.10
+3|2|Cross Main Road|0.20
+3|3|Reach Gateway of India|0.30
+4|1|Reach Mumbai Central Station|3.00
+4|2|Platform Number 6|0.10
+4|3|Board Konkan Express|0.00
+4|4|Exit at Goa Station|0.00
+5|1|Exit Station Gate|0.10
+5|2|Hire Cab|0.00
+5|3|Drive Coastal Road|12.00
+5|4|Reach Resort Reception|0.10
+6|1|Exit Resort Gate|0.10
+6|2|Walk Straight|0.50
+6|3|Reach Baga Beach|0.20
+7|1|Start Scooter Ride|0.00
+7|2|Take Beach Road North|6.00
+7|3|Reach Anjuna Beach|0.10
+8|1|Start Local Taxi|0.00
+8|2|Take Candolim Route|14.00
+8|3|Reach Fort Aguada Parking|0.20
+9|1|Reach Goa Airport|15.00
+9|2|Check In Flight|0.10
+9|3|Land Bengaluru Airport|0.00
+10|1|Exit Airport Terminal|0.20
+10|2|Take Airport Cab|0.00
+10|3|Drive City Expressway|32.00
+10|4|Reach MG Road Hotel|0.10
+11|1|walk to hotel|1.00
